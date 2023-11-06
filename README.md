@@ -14,3 +14,6 @@ Taylor series approximation is used to calculate exponential which is donated as
 
 ### Waveforms
  ![softmax waveform](waveform/softmax.png)
+### FPGA on Patho.ai platform
+ ![patho.ai.png]
+
